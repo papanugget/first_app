@@ -110,7 +110,10 @@ PLATFORMS
 
 DEPENDENCIES
   coffee-rails (~> 4.0.0)
+<<<<<<< HEAD
   execjs
+=======
+>>>>>>> 288964082b4a8c68a2013f69d6d18a41f306648e
   jbuilder (~> 1.2)
   jquery-rails
   pg
